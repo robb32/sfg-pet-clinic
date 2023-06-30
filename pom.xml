@@ -13,11 +13,6 @@
 
 	<packaging>pom</packaging>
 
-	<scm>
-		<developerConnection>scm:git://github.com/robb32/sfg-pet-clinic/https]</developerConnection>
-		<tag>sfg-pet-clinic-0.0.1</tag>
-	</scm>
-
 	<name>sfg-pet-clinic</name>
 	<description>SFG Pet Clinic Project</description>
 
@@ -56,5 +51,10 @@
 			</plugin>
 		</plugins>
 	</build>
+
+	<scm>
+		<developerConnection>scm:git:git@github.com:robb32/sfg-pet-clinic.git</developerConnection>
+		<tag>sfg-pet-clinic-0.0.1</tag>
+	</scm>
 
 </project>
